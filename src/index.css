@@ -11,7 +11,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-left: 40vw;
+  margin-left: 30vw;
+  
 }
 
 a {
@@ -38,8 +39,8 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
-  display: block;
-  margin-top: 10px;
+  /* display: block; */
+  margin: 2px;
 }
 button:hover {
   border-color: #646cff;
