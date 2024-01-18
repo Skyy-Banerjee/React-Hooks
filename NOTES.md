@@ -696,5 +696,7 @@ function UseReducer5() {
 
 export default UseReducer5;
 ```
+![whenUseReducerVsUseState](https://github.com/Skyy-Banerjee/React-Hooks/assets/51888502/0adbac52-79ef-4ae0-ab1c-d73430b8a5d5)
+
 
 
